@@ -26,7 +26,7 @@ To replicate the project:
 
 $Clone the repository:
 
-git clone https://github.com/yourusername/Intrusion-Detection-System-Using-ML.git
+git clone https://github.com/Sudarshanbhagat/Intrusion-Detection-System-Using-ML.git
 
 $Navigate to the project directory:
 
@@ -42,4 +42,10 @@ jupyter notebook
 
 Results and Future Enhancements
 
-The system demonstrates high accuracy in detecting network anomalies, achieving an accuracy of [insert value]% on the test dataset. Additionally, it identifies and classifies network intrusions with high precision and recall, reducing false positives and enhancing interpretability through feature importance analysis. Future work includes integrating unsupervised learning for anomaly detection, deploying the IDS in real-time network environments, and scaling to larger datasets for improved generalization.
+The system demonstrates high accuracy in detecting network anomalies, 
+achieving an accuracy of 86% on the test dataset. Additionally, it
+identifies and classifies network intrusions with high precision and 
+recall, reducing false positives and enhancing interpretability through 
+feature importance analysis. Future work includes integrating unsupervised
+learning for anomaly detection, deploying the IDS in real-time network
+environments, and scaling to larger datasets for improved generalization.
