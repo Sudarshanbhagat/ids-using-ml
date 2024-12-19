@@ -5,7 +5,7 @@
 This project involves the development of an Intrusion Detection System (IDS) using machine learning
 techniques to enhance network security. The system leverages supervised learning algorithms, including
 Random Forest, Decision Tree, and XGBoost, to detect and classify network intrusions effectively. 
-Utilizing the KDD Cup 1999 dataset, a benchmark for intrusion detection, the project preprocesses 
+Utilizing the KDD Cup 1999 dataset combined with the CICIDS 2017, a benchmark for intrusion detection, the project preprocesses 
 network traffic data to identify and categorize various types of attacks and normal connections. 
 The IDS achieves robust performance by analyzing feature importance, visualizing metrics such as
 accuracy, precision, recall, and F1-score, and reducing false positives to improve reliability. 
